@@ -8,4 +8,4 @@ La obra de James Rachels ha sido influyente en la filosofía moral y ética apli
 
 ---
 
-![James Rachels.png](James Rachels.png "James Rachels")
+![JamesRachels.png](JamesRachels.png "James Rachels")
